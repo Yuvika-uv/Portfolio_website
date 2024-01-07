@@ -12,7 +12,7 @@ body{
     color: #fff;
 }
 .logo{
-    width: 60px;
+    width: 200px;
 }
 #header{
     width: 100%;
@@ -26,7 +26,7 @@ body{
     border-radius: 20px;
     height: 400px;
     width: 350px;
-    background-image: url(images/images/Sambhav.jpg);
+    background-image: url(images/images/Yuvika.jpg);
 }
 .container{
     padding: 10px 10%;
@@ -36,9 +36,6 @@ nav{
     align-items: center;
     justify-content: space-between;
     flex-wrap: wrap;
-}
-.logo{
-    width: 140px;
 }
 nav ul li{
         display: inline-block;
